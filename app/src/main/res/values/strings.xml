@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shooting</string>
+    <string name="btn_start">Start</string>
+    <string name="score">Score : %d</string>
+    <string name="high_score">High Score : %d</string>
+    <string name="game_over">Game Over</string>
+    <string name="zero">0</string>
+    <string name="play_again">Play Again</string>
+    <string name="time">Time : %d</string>
+    <string name="hit_points">HP : %d</string>
+    <string name="enemy_hit_points">Enemy HP : %d</string>
+    <string name="player_hit_points">HP : %d</string>
+</resources>

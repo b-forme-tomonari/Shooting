@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">シューティング</string>
+    <string name="btn_start">スタート</string>
+    <string name="score">スコア : %d</string>
+    <string name="high_score">ハイスコア : %d</string>
+    <string name="game_over">ゲームオーバー</string>
+    <string name="zero">0</string>
+    <string name="play_again">もう一度プレイ</string>
+    <string name="time">タイム : %d</string>
+    <string name="hit_points">体力 : %d</string>
+    <string name="player_hit_points">体力 : %d</string>
+    <string name="enemy_hit_points">敵 HP : %d</string>
+</resources>
