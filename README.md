@@ -17,8 +17,8 @@ Kotlinを使用したAndroidで動作するシューティングゲームです�
 ## 開発時にこだわった点
 処理の機能ごとにクラスをメソッドを分割することを意識しました。
 
-## プレイ画面
-
+## プレイ動画
+シューティングゲームをプレイした動画です。
 [device-2023-05-30-150935.webm](https://github.com/b-forme-tomonari/Shooting/assets/106940016/4e58cf58-d68e-49b7-adf5-cafa8ee8f409)
 
 
