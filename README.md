@@ -19,6 +19,11 @@ Kotlinを使用したAndroidで動作するシューティングゲームです�
 
 処理内容を理解しやすい、クラス名やメソッド名をつけることをすることを意識しました。
 
+## Google Play 公開
+以下のリンクをクリックすると、シューティングゲームのページに遷移することができる。
+
+https://play.google.com/store/apps/details?id=com.game.shooting
+
 ## プレイ動画
 シューティングゲームをプレイした動画です。
 
